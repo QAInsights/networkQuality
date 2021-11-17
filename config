@@ -1,0 +1,12 @@
+// 20211117004601
+// https://mensura.cdn-apple.com/api/v1/gm/config
+
+{
+  "version": 1,
+  "urls": {
+    "small_https_download_url": "https://mensura.cdn-apple.com/api/v1/gm/small",
+    "large_https_download_url": "https://mensura.cdn-apple.com/api/v1/gm/large",
+    "https_upload_url": "https://mensura.cdn-apple.com/api/v1/gm/slurp"
+  },
+  "test_endpoint": "usqas2-edge-bx-023.aaplimg.com"
+}
