@@ -4,5 +4,7 @@
     "small_https_download_url": "https://raw.githubusercontent.com/QAInsights/networkQuality/main/small.txt",
     "large_https_download_url": "https://raw.githubusercontent.com/QAInsights/networkQuality/main/large.txt",
     "https_upload_url": "https://mensura.cdn-apple.com/api/v1/gm/slurp"
-  }
+  },
+    "test_endpoint": "usqas2-edge-bx-023.aaplimg.com"
+
 }
